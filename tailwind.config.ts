@@ -32,6 +32,11 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				'casino-gold': '#FFD700',
+				'casino-red': '#DC143C',
+				'casino-purple': '#8A2BE2',
+				'neon-blue': '#00FFFF',
+				'neon-pink': '#FF1493',
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
